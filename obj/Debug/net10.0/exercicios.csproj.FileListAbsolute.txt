@@ -1,0 +1,15 @@
+C:\Users\57460556890\source\repos\exercicios\exercicios\bin\Debug\net10.0\exercicios.exe
+C:\Users\57460556890\source\repos\exercicios\exercicios\bin\Debug\net10.0\exercicios.deps.json
+C:\Users\57460556890\source\repos\exercicios\exercicios\bin\Debug\net10.0\exercicios.runtimeconfig.json
+C:\Users\57460556890\source\repos\exercicios\exercicios\bin\Debug\net10.0\exercicios.dll
+C:\Users\57460556890\source\repos\exercicios\exercicios\bin\Debug\net10.0\exercicios.pdb
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.AssemblyInfo.cs
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.dll
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\refint\exercicios.dll
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.pdb
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.genruntimeconfig.cache
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\ref\exercicios.dll
+C:\Users\57460556890\source\repos\exercicios\exercicios\obj\Debug\net10.0\exercicios.csproj.Up2Date
